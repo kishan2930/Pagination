@@ -1,0 +1,47 @@
+.pagination-container {
+  margin: 20px;
+}
+
+.pagination-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.pagination-table th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+  background-color: green;
+  color: white;
+}
+
+.pagination-table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.pagination-buttons {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.green-button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.page-number {
+  background-color: green;
+  color: white;
+  padding: 4px 8px;
+  margin: 0 5px;
+}
+
+h1 {
+  text-align: center;
+}
